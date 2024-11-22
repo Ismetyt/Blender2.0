@@ -23,7 +23,7 @@
     "inshorts-api": "^1.0.3",
     "pg": "^8.5.1",
     "urban-dictionary": "^3.0.2",
-    "wa-sticker-formatter": "^3.6.0",
+    "wa-sticker-formatter": "^4.0.0",
     "ytdl-core": "github:fent/node-ytdl-core#pull/1022/head",
     "fluent-ffmpeg": "^2.1.2",
     "yt-search": "^2.10.1",
